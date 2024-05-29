@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on more python projects
 
 
-[](https://imgur.com/a/cqNSUQa)
+<img src="https://imgur.com/a/cqNSUQa">
