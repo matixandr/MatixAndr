@@ -4,6 +4,3 @@
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning Python, C++, C#,Rust
 - 💞️ I’m looking to collaborate on more python projects
-
-
-<img src="https://imgur.com/a/cqNSUQa">
