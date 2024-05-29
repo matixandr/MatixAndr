@@ -7,6 +7,5 @@ Hi im a software engenieer and i make many kind's of software!
 
 ## Languages that i write in:
 
-<figure>
-  <embed src="https://wakatime.com/share/@matixandr09/7c1bb553-054e-45cb-a864-906623d99eae.svg"></embed>
-</figure>
+
+<img src="https://wakatime.com/share/@matixandr09/7c1bb553-054e-45cb-a864-906623d99eae.svg">
