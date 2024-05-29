@@ -14,5 +14,5 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 ## Current projects i'm working on:
 
 - `Hacking Book` -> A hacking tutorial book for beginer hackers made in Python
-- `VM Nuker (Experimental)` -> Bruteforces ssh and deletes every file in the system using command ***sudo rm -rf **** (Probably in Python or C++)
+- `VM Nuker (Experimental)` -> Bruteforces ssh and deletes every file in the system using command `sudo rm -rf *` (Probably in Python or C++)
 - `Abyss CLI` -> I want to make my own CLI in Python bcs window's CLI is **BAD**
