@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Python, C++, C#,Rust
 - 💞️ I’m looking to collaborate on more python projects
 
-<img src="Hi! Im a Software Engineer (2).gif">
+<img src="Hi! Im a Software Engineer (3).gif">
