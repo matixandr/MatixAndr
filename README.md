@@ -5,7 +5,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 ## My code playtime on WakaTime:
 [![My Total Code Time](https://wakatime.com/badge/user/018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0.svg)](https://wakatime.com/@018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0)
 
-## Languages that i write in:
+## Languages that i write in the most:
 
 - 🥇`Python` -> 155h 45min
 - 🥈`Rust` -> 9h 18min
