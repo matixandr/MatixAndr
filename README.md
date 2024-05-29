@@ -6,3 +6,5 @@
 - 💞️ I’m looking to collaborate on more python projects
 
 <figure><embed src="https://wakatime.com/share/@matixandr09/1a1e2184-43b4-45df-987e-b167e6cc12e2.svg"></embed></figure>
+
+![](https://raw.githubusercontent.com/MatixAndr09/github-stats/master/generated/languages.svg#gh-dark-mode-only)
