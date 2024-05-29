@@ -7,9 +7,9 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 ## Languages that i write in:
 
-- `Python` -> 155h 45min
-- `Rust` -> 9h 18min
-- `C++` -> 7h 11min
+- 🥇`Python` -> 155h 45min
+- 🥈`Rust` -> 9h 18min
+- 🥉`C++` -> 7h 11min
 
 ## Current projects i'm working on:
 
