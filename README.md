@@ -15,7 +15,18 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 ## Editors that i write in:
 
-<img src="https://wakatime.com/share/@matixandr09/ed8f1e90-704f-4ec5-8acc-73ff06a3b5f2.svg" width="512" height="512">
+| IDE        | Percent     |
+| :---------- | -------------: |
+| VS Code    |      80.28% |
+| PyCharm    |      14.89% |
+| WebStorm   |       1.81% |
+| CLion      |       1.67% |
+| Visual Studio |       0.80% |
+| Rustrover  |       0.27% |
+| IntelliJ IDEA |       0.17% |
+| Rider      |       0.06% |
+| DataGrip   |       0.05% |
+
 
 ## Current projects i'm working on:
 
