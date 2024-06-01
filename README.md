@@ -27,6 +27,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 | Rider      |       0.06% | 9min
 | DataGrip   |       0.05% | 6min
 
+ *(Updated 01.06.2024)*
 
 ## Current projects i'm working on:
 
