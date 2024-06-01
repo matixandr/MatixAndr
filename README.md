@@ -15,17 +15,17 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 ## Editors that i write in:
 
-| IDE        | Percent     |
-| :---------- | -------------: |
-| VS Code    |      80.28% |
-| PyCharm    |      14.89% |
-| WebStorm   |       1.81% |
-| CLion      |       1.67% |
-| Visual Studio |       0.80% |
-| Rustrover  |       0.27% |
-| IntelliJ IDEA |       0.17% |
-| Rider      |       0.06% |
-| DataGrip   |       0.05% |
+| IDE        | Percent     |  Time     |
+| :---------- | ------------- | ----------: |
+| VS Code    |      80.28% | 192h 226min
+| PyCharm    |      14.89% | 35h 41min
+| WebStorm   |       1.81% | 4h 20min
+| CLion      |       1.67% | 3h 59min
+| Visual Studio |       0.80% | 1h 55min
+| Rustrover  |       0.27% |  39min
+| IntelliJ IDEA |       0.17% | 24min
+| Rider      |       0.06% | 9min
+| DataGrip   |       0.05% | 6min
 
 
 ## Current projects i'm working on:
