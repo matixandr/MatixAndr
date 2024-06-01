@@ -11,6 +11,8 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 - 🥈`Rust` -> 9h 18min
 - 🥉`C++` -> 7h 11min
 
+  *(Updated 01.06.2024)*
+
 ## Current projects i'm working on:
 
 - `Hacking Book` -> A hacking tutorial book for beginer hackers made in Python
