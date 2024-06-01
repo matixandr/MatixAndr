@@ -13,6 +13,10 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
   *(Updated 01.06.2024)*
 
+## Editors that i write in:
+
+<img src="https://wakatime.com/share/@matixandr09/ed8f1e90-704f-4ec5-8acc-73ff06a3b5f2.svg" width="128" height="128">
+
 ## Current projects i'm working on:
 
 - `Hacking Book` -> A hacking tutorial book for beginer hackers made in Python
