@@ -7,7 +7,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 ## Languages that i write in the most (TOP 3):
 
-- 🥇$\color{BurntOrange}{Python}$ -> 156h 27min
+- 🥇$`\color{BurntOrange}{Python}`$ -> 156h 27min
 - 🥈$\color{Gray}{Rust}$ -> 10h 54min
 - 🥉$\color{Brown}{C++}$ -> 7h 11min
 
