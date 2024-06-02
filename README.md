@@ -26,5 +26,5 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 ## Current projects i'm working on:
 
 - `Hacking Book` -> A hacking tutorial book for beginer hackers made in Python
-- ✅ v1.0 `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
+- ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Abyss CLI` -> I want to make my own CLI in Python bcs window's CLI is **BAD**
