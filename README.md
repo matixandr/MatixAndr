@@ -16,7 +16,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 ## Editors that i write in (TOP 3):
 
 | IDE        | Percent     |  Time     |
-| :---------- | ------------- | ----------: |
+| :-: | :-: | :-: |
 | VS Code    |      80.28% | 194h 03min
 | PyCharm    |      14.89% | 35h 41min
 | WebStorm   |       1.81% | 4h 20min
