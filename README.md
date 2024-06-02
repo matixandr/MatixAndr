@@ -11,7 +11,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 - 🥈`Rust` -> 10h 54min
 - 🥉`C++` -> 7h 11min
 
-  *(Updated 02.06.2024)*
+> *(Updated 02.06.2024)*
 
 ## Editors that i write in (TOP 3):
 
@@ -21,7 +21,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 | PyCharm    |      14.89% | 35h 41min
 | WebStorm   |       1.81% | 4h 20min
 
- *(Updated 02.06.2024)*
+> *(Updated 02.06.2024)*
 
 ## Current projects i'm working on:
 
