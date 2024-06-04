@@ -29,3 +29,8 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Abyss CLI` -> I want to make my own CLI in Python bcs window's CLI is **BAD**
 - `SUDO Permission Explotation Tool` -> A tool in Rust that aims to give you root access in a ssh connection by doing various exploits
+
+
+## Weakly coding activity:
+
+<img src="https://wakatime.com/share/@matixandr09/4599a15d-7ad0-4989-8a7b-418d3e48f575.svg" onerror="o kurwa coś nie tak chyba jebną wakatime">
