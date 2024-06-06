@@ -15,11 +15,11 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 ## Editors that i write in (TOP 3):
 
-| IDE        | Percent     |  Time     |
-| :-: | :-: | :-: |
-| VS Code    |      80.28% | 194h 03min
-| PyCharm    |      14.89% | 35h 41min
-| WebStorm   |       1.81% | 4h 20min
+| IDE        | Percent     |  Time     | Language | Time Spent |
+| :-: | :-: | :-: | :-: | :-: |
+| VS Code    |      80.28% | 194h 03min | $`\color{BurntOrange}{Python}`$ | 156h 27min
+| PyCharm    |      14.89% | 35h 41min | $`\color{Gray}{Rust}`$ | 10h 54min
+| WebStorm   |       1.81% | 4h 20min | $`\color{Brown}{C++}`$ | 7h 11min
 
 > *(Updated 02.06.2024)*
 
