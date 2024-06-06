@@ -2,18 +2,8 @@
 
 Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++
 
-## My code playtime on WakaTime:
+## Some wakatime stats:
 [![My Total Code Time](https://wakatime.com/badge/user/018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0.svg)](https://wakatime.com/@018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0)
-
-## Languages that i write in the most (TOP 3):
-
-- 🥇$`\color{BurntOrange}{Python}`$ -> 156h 27min
-- 🥈$`\color{Gray}{Rust}`$ -> 10h 54min
-- 🥉$`\color{Brown}{C++}`$ -> 7h 11min
-
-> *(Updated 02.06.2024)*
-
-## Editors that i write in (TOP 3):
 
 | IDE        | Percent     |  Time     | Language | Time Spent |
 | :-: | :-: | :-: | :-: | :-: |
