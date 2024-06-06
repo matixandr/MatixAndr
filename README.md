@@ -20,13 +20,14 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 - `Abyss CLI` -> I want to make my own CLI in Python bcs window's CLI is **BAD**
 - `Python++` -> Yes
 
+## Current Languages that i write:
 
-## Repo & Github Stats:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+## Repo & Github Stats:
+
 ![](https://raw.githubusercontent.com/MatixAndr09/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MatixAndr09/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![MatixAndr09's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=radical)
