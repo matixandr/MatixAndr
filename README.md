@@ -35,3 +35,4 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 ![](https://raw.githubusercontent.com/MatixAndr09/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MatixAndr09/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![MatixAndr09's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=radical)
