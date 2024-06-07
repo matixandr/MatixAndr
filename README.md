@@ -7,11 +7,11 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 | IDE        | Percent     |  Time     | Language | Time Spent |
 | :-: | :-: | :-: | :-: | :-: |
-| VS Code    |      80.28% | 194h 03min | $`\color{BurntOrange}{Python}`$ | 156h 27min
-| PyCharm    |      14.89% | 35h 41min | $`\color{Gray}{Rust}`$ | 10h 54min
-| WebStorm   |       1.81% | 4h 20min | $`\color{Brown}{C++}`$ | 7h 11min
+| VS Code    |      78.31% | 272h 47min | $`\color{BurntOrange}{Python}`$ | 225h 39min
+| PyCharm    |      16.90% | 58h 52min | $`\color{Gray}{Rust}`$ | 15h 57min
+| CLion   |       2.35% | 8h 12min | $`\color{Brown}{C++}`$ | 12h 25min
 
-> *(Updated 02.06.2024)*
+> *(Updated 07.06.2024)*
 
 ## Current projects i'm working on:
 
