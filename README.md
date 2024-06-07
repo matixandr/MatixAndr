@@ -18,7 +18,13 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 - `Hacking Book` -> A hacking tutorial book for beginer hackers made in Python
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Abyss CLI` -> I want to make my own CLI in Python bcs window's CLI is **BAD**
-- `Python++` -> Yes
+- `Python++` -> Yes, my own programing laguage (Interpreter)
+
+## Projects in future:
+
+- `XCode` -> My own recreation of Visual Studio Code in TypeScript
+- `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
+- `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
 
 ## Current Languages that i write:
 
@@ -30,10 +36,10 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 
 ## Repo & Github Stats:
