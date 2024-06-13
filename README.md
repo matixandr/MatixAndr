@@ -26,7 +26,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 - `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
 - `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
 
-## Current Languages that i write:
+## Techstack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
