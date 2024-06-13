@@ -2,32 +2,20 @@
 
 Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++
 
-<h2 align="center">Some wakatime stats:</h2>
-
-[![My Total Code Time](https://wakatime.com/badge/user/018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0.svg)](https://wakatime.com/@018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0)
-
-| IDE        | Percent     |  Time     | Language | Time Spent |
-| :-: | :-: | :-: | :-: | :-: |
-| VS Code    |      78.31% | 272h 47min | $`\color{BurntOrange}{Python}`$ | 225h 39min
-| PyCharm    |      16.90% | 58h 52min | $`\color{Gray}{Rust}`$ | 15h 57min
-| CLion   |       2.35% | 8h 12min | $`\color{Brown}{C++}`$ | 12h 25min
-
-> *(Updated 07.06.2024)*
-
-## Current projects i'm working on:
+<h2 align="center">Current projects i'm working on:</h2>
 
 - `Hacking Book` -> A hacking tutorial book for beginer hackers made in Python
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Abyss CLI` -> I want to make my own CLI in Python bcs window's CLI is **BAD**
 - `Python++` -> Yes, my own programing laguage (Interpreter)
 
-## Projects in future:
+<h2 align="center">Projects in future:</h2>
 
 - `XCode` -> My own recreation of Visual Studio Code in TypeScript
 - `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
 - `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
 
-## Techstack:
+<h2 align="center">Techstack:</h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -43,7 +31,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 
-## Repo & Github Stats:
+<h2 align="center">Repo & Github Stats:</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatixAndr09&theme=dark&layout=compact&hide_title=true&langs_count=10" alt="MatixAndr09's wakatime stats"><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false)
