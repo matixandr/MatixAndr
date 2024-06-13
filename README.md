@@ -33,5 +33,9 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 <h2 align="center">Repo & Github Stats:</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatixAndr09&theme=dark&layout=compact&hide_title=true&langs_count=10" alt="MatixAndr09's wakatime stats"><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatixAndr09&theme=dark&layout=compact&hide_title=true&langs_count=10" alt="MatixAndr09's wakatime stats"><br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false)
+</div>
+
