@@ -2,20 +2,19 @@
 
 Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++
 
-<h2 align="center">Current projects i'm working on:</h2>
+<h2 align="center">📚 Projects - now</h2>
 
-- `Hacking Book` -> A hacking tutorial book for beginer hackers made in Python
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
-- `Abyss CLI` -> I want to make my own CLI in Python bcs window's CLI is **BAD**
 - `Python++` -> Yes, my own programing laguage (Interpreter)
 
-<h2 align="center">Projects in future:</h2>
+<h2 align="center">👾 Projects - future</h2>
 
+- `Portfolio` -> My portofolio for my site :)
 - `XCode` -> My own recreation of Visual Studio Code in TypeScript
 - `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
 - `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
 
-<h2 align="center">Techstack:</h2>
+<h2 align="center">🧑🏻‍💻 Techstack</h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -31,7 +30,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 
-<h2 align="center">Repo & Github Stats:</h2>
+<h2 align="center">📊 Statistics</h2>
 
 
 <div align="center">
