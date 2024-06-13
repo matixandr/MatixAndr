@@ -3,6 +3,7 @@
 Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++
 
 <h2 align="center">Some wakatime stats:</h2>
+
 [![My Total Code Time](https://wakatime.com/badge/user/018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0.svg)](https://wakatime.com/@018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0)
 
 | IDE        | Percent     |  Time     | Language | Time Spent |
