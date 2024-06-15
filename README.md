@@ -22,7 +22,7 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 <h2 align="center">💻 Editors</h2>
 
-![PyCharm Professional](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PyCharm Professional](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![RustRover](https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=rust&logoColor=white)
