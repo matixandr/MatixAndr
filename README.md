@@ -1,6 +1,6 @@
 <img src="Hi! Im a Software Engineer (2).gif">
 
-Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++
+Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++. I also write some good quality websites
 
 <h2 align="center">👷🏻 Services</h2>
 
@@ -34,6 +34,8 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 
 
 <h2 align="center">📊 Statistics</h2>
