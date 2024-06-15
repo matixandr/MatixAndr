@@ -6,6 +6,7 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Python++` -> Yes, my own programing laguage (Interpreter)
+- `TS Tool Kit` -> TS Tool Kit is a tool for TS made in python
 
 <h2 align="center">👾 Projects - future</h2>
 
