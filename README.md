@@ -22,14 +22,14 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 <h2 align="center">💻 Editors</h2>
 
-- [![PyCharm Professional](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm&logoColor=21D789)](https://www.jetbrains.com/pycharm/)
-- [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=1C78C0)](https://www.jetbrains.com/webstorm/)
-- [![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=EA4E8C)](https://www.jetbrains.com/datagrip/)
-- [![RustRover](https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=rust&logoColor=DEA584)](https://www.jetbrains.com/rust/)
-- [![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=00C4B3)](https://www.jetbrains.com/clion/)
-- [![IntelliJ IDEA Ultimate](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=FF6347)](https://www.jetbrains.com/idea/)
-- [![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-- [![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)](https://visualstudio.microsoft.com/)
+![PyCharm Professional](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm&logoColor=21D789)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=1C78C0)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=EA4E8C)
+![RustRover](https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=rust&logoColor=DEA584)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=00C4B3)
+![IntelliJ IDEA Ultimate](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=FF6347)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
