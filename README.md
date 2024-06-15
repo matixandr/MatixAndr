@@ -4,7 +4,9 @@ Hi im a software engenieer and i make many kind's of software! I mainly write in
 
 <h2 align="center">👷🏻 Services</h2>
 
-I make software and websites for request! Want one? (Not Free) Dm me on discord: `matt.void`
+I make software and websites for request! Want one? Dm me on discord: `matt.void`
+
+> *Note: this service is not free for more information dm me on discord*
 
 <h2 align="center">📚 Projects - now</h2>
 
