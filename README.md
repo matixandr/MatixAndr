@@ -12,10 +12,10 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Python++` -> Yes, my own programing laguage (Interpreter)
+- `Portfolio` -> My portofolio for my site :)
 
 <h2 align="center">👾 Projects - future</h2>
 
-- `Portfolio` -> My portofolio for my site :)
 - `XCode` -> My own recreation of Visual Studio Code in TypeScript
 - `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
 - `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
