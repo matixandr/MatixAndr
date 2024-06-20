@@ -10,9 +10,13 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 <h2 align="center">📚 Projects - now</h2>
 
+- `Portfolio` -> My portofolio for my site :)
+- `PacketMaster` -> PacketMaster - the best packet sending and analysis app (Rust)
+
+<h2 align="center">🛑 Projects - Paused Work</h2>
+
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Python++` -> Yes, my own programing laguage (Interpreter)
-- `Portfolio` -> My portofolio for my site :)
 
 <h2 align="center">👾 Projects - future</h2>
 
