@@ -19,6 +19,7 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 - `XCode` -> My own recreation of Visual Studio Code in TypeScript
 - `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
 - `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
+- `FGPT4` -> Free GPT4 using public API keys in python 
 
 <h2 align="center">💻 Editors</h2>
 
