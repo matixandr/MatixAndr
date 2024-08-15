@@ -8,7 +8,7 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 > *Note: this service is **NOT** free for more information dm me on discord*
 
-<h2 align="center">📚 Projects - now</h2>
+<!-- <h2 align="center">📚 Projects - now</h2>
 
 - `XCode` -> My own recreation of Visual Studio Code in TypeScript
 - `PacketMaster` -> PacketMaster - the best packet sending and analysis app (Rust)
@@ -23,7 +23,7 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 - `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
 - `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
-- `FGPT4` -> Free GPT4 using public API keys in python 
+- `FGPT4` -> Free GPT4 using public API keys in python -->
 
 <h2 align="center">💻 Editors</h2>
 
