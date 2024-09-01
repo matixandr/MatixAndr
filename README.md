@@ -2,13 +2,13 @@
 
 Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++. I also write some good quality websites
 
-<h2 align="center">👷🏻 Services</h2>
+<!--<h2 align="center">👷🏻 Services</h2>
 
 I make software and websites for request! Want one? Dm me on discord: `matt.void`
 
 > *Note: this service is **NOT** free for more information dm me on discord*
 
-<!-- <h2 align="center">📚 Projects - now</h2>
+ <h2 align="center">📚 Projects - now</h2>
 
 - `XCode` -> My own recreation of Visual Studio Code in TypeScript
 - `PacketMaster` -> PacketMaster - the best packet sending and analysis app (Rust)
