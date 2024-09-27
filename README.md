@@ -59,9 +59,11 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 
 <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09&theme=dark&layout=compact&hide_title=true&langs_count=20" alt="MatixAndr09's wakatime stats"><br/>
+ 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false)
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09&theme=dark&layout=compact&hide_title=true&langs_count=10" alt="MatixAndr09's wakatime stats"><br/>
+  
 </div>
 
 
