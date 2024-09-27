@@ -53,14 +53,14 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-[![SCSS](https://img.shields.io/badge/scss-latest-pink.svg?style=for-the-badge)](https://sass-lang.com/)
-[![PowerShell](https://img.shields.io/badge/powershell-%25E2%80%A2-purple.svg?style=for-the-badge)](https://docs.microsoft.com/en-us/powershell/)
-[![PHP](https://img.shields.io/badge/php-%7E8.1-blue.svg?style=for-the-badge)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/c%23-latest-blue.svg?style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![CMake](https://img.shields.io/badge/cmake-latest-yellow.svg?style=for-the-badge)](https://cmake.org/)
-[![JSON](https://img.shields.io/badge/json-latest-gold.svg?style=for-the-badge)](https://json.org/)
-[![MCFunction](https://img.shields.io/badge/mcfunction-latest-green.svg?style=for-the-badge)](https://minecraft.fandom.com/wiki/Function_(data_pack))
+
+[![SCSS](https://img.shields.io/badge/SCSS-f865a6?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-8867c4?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![CMake](https://img.shields.io/badge/CMake-DA3434?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
+[![JSON](https://img.shields.io/badge/JSON-F05B4F?style=for-the-badge&logo=json&logoColor=white)](https://json.org/)
+[![MCFunction](https://img.shields.io/badge/MCFunction-228B22?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.fandom.com/wiki/Function_(data_pack))
 
 <h2 align="center">📊 Statistics</h2>
 
