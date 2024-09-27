@@ -54,14 +54,13 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-[![HTML5](https://img.shields.io/badge/html5-%25E2%80%A2-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![SCSS](https://img.shields.io/badge/scss-latest-pink.svg)](https://sass-lang.com/)
-[![PowerShell](https://img.shields.io/badge/powershell-%25E2%80%A2-purple.svg)](https://docs.microsoft.com/en-us/powershell/)
-[![PHP](https://img.shields.io/badge/php-%7E8.1-blue.svg)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/c%23-latest-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![CMake](https://img.shields.io/badge/cmake-latest-yellow.svg)](https://cmake.org/)
-[![JSON](https://img.shields.io/badge/json-latest-gold.svg)](https://json.org/)
-[![MCFunction](https://img.shields.io/badge/mcfunction-latest-green.svg)](https://minecraft.fandom.com/wiki/Function_(data_pack))
+[![SCSS](https://img.shields.io/badge/scss-latest-pink.svg?style=for-the-badge)](https://sass-lang.com/)
+[![PowerShell](https://img.shields.io/badge/powershell-%25E2%80%A2-purple.svg?style=for-the-badge)](https://docs.microsoft.com/en-us/powershell/)
+[![PHP](https://img.shields.io/badge/php-%7E8.1-blue.svg?style=for-the-badge)](https://www.php.net/)
+[![C#](https://img.shields.io/badge/c%23-latest-blue.svg?style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![CMake](https://img.shields.io/badge/cmake-latest-yellow.svg?style=for-the-badge)](https://cmake.org/)
+[![JSON](https://img.shields.io/badge/json-latest-gold.svg?style=for-the-badge)](https://json.org/)
+[![MCFunction](https://img.shields.io/badge/mcfunction-latest-green.svg?style=for-the-badge)](https://minecraft.fandom.com/wiki/Function_(data_pack))
 
 <h2 align="center">📊 Statistics</h2>
 
