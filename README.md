@@ -53,7 +53,6 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
 [![SCSS](https://img.shields.io/badge/SCSS-f865a6?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-8867c4?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
