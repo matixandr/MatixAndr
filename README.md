@@ -33,8 +33,10 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 ![RustRover](https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=rust&logoColor=DEA584)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=00C4B3)
 ![IntelliJ IDEA Ultimate](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=FF6347)
+[![DotPeak](https://img.shields.io/badge/DotPeak-000000?style=for-the-badge&logo=dotpeak&logoColor=white)](https://www.dotpeak.com/)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
+[![Visual Studio Code Insiders](https://img.shields.io/badge/Visual%20Studio%20Code%20Insiders-000000?style=for-the-badge&logo=vscode-insiders&logoColor=white)](https://code.visualstudio.com/insiders/)
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
