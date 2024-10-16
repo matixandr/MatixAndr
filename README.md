@@ -1,7 +1,6 @@
 <img src="Hi! Im a Software Engineer (2).gif">
 
-Hi im a software engenieer and i make many kind's of software! I mainly write in Python and sometimes in Rust or C++. I also write some good quality websites
-
+Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started programing in 2016 and from that time i made multiple projects.
 <!--<h2 align="center">👷🏻 Services</h2>
 
 I make software and websites for request! Want one? Dm me on discord: `matt.void`
