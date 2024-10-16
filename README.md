@@ -64,7 +64,7 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 [![JSON](https://img.shields.io/badge/JSON-F05B4F?style=for-the-badge&logo=json&logoColor=white)](https://json.org/)
 [![MCFunction](https://img.shields.io/badge/MCFunction-228B22?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.fandom.com/wiki/Function_(data_pack))
 
-[![My Skills](https://skillicons.dev/icons?i=intellij,dotpeak,rust,c,c++,ts,js,kotlin,python,postgresql,flask,django,git,html,css,scss,powershell,php,c#,cmake,json)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,postgressql,flask,django,git,html,css,scss,powershell,php,c#,cmake,json)](https://skillicons.dev)
 
 
 <h2 align="center">📊 Statistics</h2>
