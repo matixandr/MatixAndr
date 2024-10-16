@@ -38,6 +38,8 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
 [![Visual Studio Code Insiders](https://img.shields.io/badge/Visual%20Studio%20Code%20Insiders-000000?style=for-the-badge&logo=vscode-insiders&logoColor=white)](https://code.visualstudio.com/insiders/)
 
+[![My Skills](https://skillicons.dev/icons?i=pycharm,webstorm,datagrip,rustrover,clion,intellij,dotpeak)](https://skillicons.dev)
+
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
