@@ -41,30 +41,7 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-[![SCSS](https://img.shields.io/badge/SCSS-f865a6?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-8867c4?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![CMake](https://img.shields.io/badge/CMake-DA3434?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
-[![JSON](https://img.shields.io/badge/JSON-F05B4F?style=for-the-badge&logo=json&logoColor=white)](https://json.org/)
-[![MCFunction](https://img.shields.io/badge/MCFunction-228B22?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.fandom.com/wiki/Function_(data_pack))
-
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,postgressql,flask,django,git,html,css,scss,powershell,php,c#,cmake,json)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cs,cmake,json)](https://skillicons.dev)
 
 
 <h2 align="center">📊 Statistics</h2>
