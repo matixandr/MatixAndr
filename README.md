@@ -38,7 +38,6 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
 [![Visual Studio Code Insiders](https://img.shields.io/badge/Visual%20Studio%20Code%20Insiders-000000?style=for-the-badge&logo=vscode-insiders&logoColor=white)](https://code.visualstudio.com/insiders/)
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,webstorm,datagrip,rustrover,clion,intellij,dotpeak)](https://skillicons.dev)
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
@@ -64,6 +63,9 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 [![CMake](https://img.shields.io/badge/CMake-DA3434?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![JSON](https://img.shields.io/badge/JSON-F05B4F?style=for-the-badge&logo=json&logoColor=white)](https://json.org/)
 [![MCFunction](https://img.shields.io/badge/MCFunction-228B22?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.fandom.com/wiki/Function_(data_pack))
+
+[![My Skills](https://skillicons.dev/icons?i=intellij,dotpeak,rust,c,c++,ts,js,kotlin,python,postgresql,flask,django,git,html,css,scss,powershell,php,c#,cmake,json)](https://skillicons.dev)
+
 
 <h2 align="center">📊 Statistics</h2>
 
