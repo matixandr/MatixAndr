@@ -41,7 +41,7 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cs,cmake,react,java,bash,mongodb,nodejs,sqlite3,php,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cs,cmake,react,java,bash,mongodb,nodejs,sqlite,postgres)](https://skillicons.dev)
 
 
 <h2 align="center">📊 Statistics</h2>
