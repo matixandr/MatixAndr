@@ -6,14 +6,14 @@ Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started
 I make software and websites for request! Want one? Dm me on discord: `matt.void`
 
 > *Note: this service is **NOT** free for more information dm me on discord*
-
+-->
  <h2 align="center">📚 Projects - now</h2>
 
-- `XCode` -> My own recreation of Visual Studio Code in TypeScript
-- `PacketMaster` -> PacketMaster - the best packet sending and analysis app (Rust)
-- `Portfolio` -> My portofolio for my site :)
+- `MRCT` -> This is a React Components Toolkit for your projects ( TypeScript )
+- `WLCPS` -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook (C + Powershell)
+- `PyGit` -> PyGit is a Github client that is like Github Desktop but in Python using the texutal lib
 
-<h2 align="center">🛑 Projects - Paused Work</h2>
+<!--<h2 align="center">🛑 Projects - Paused Work</h2>
 
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
 - `Python++` -> Yes, my own programing laguage (Interpreter)
