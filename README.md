@@ -1,29 +1,13 @@
 <img src="Hi! Im a Software Engineer (2).gif">
 
 Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started programing in 2016 and from that time i made multiple projects.
-<!--<h2 align="center">👷🏻 Services</h2>
 
-I make software and websites for request! Want one? Dm me on discord: `matt.void`
-
-> *Note: this service is **NOT** free for more information dm me on discord*
--->
  <h2 align="center">📚 Projects - now</h2>
 
-- **MRCT** -> This is a React Components Toolkit for your projects ( <span style="color:blue">TypeScript</span> )
-- **WLCPS** -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook ( <span style="color:gray">C</span> + <span style="color:blue">Powershell</span> )
-- **PyGit** -> PyGit is a Github client that is like Github Desktop but in Python using the texutal lib ( <span style="color:yellow">Python</span> )
+- **MRCT** -> This is a React Components Toolkit for your projects ( `TypeScript` )
+- **WLCPS** -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook ( `C` + `Powershell` )
+- **PyGit** -> PyGit is a Github client that is like Github Desktop but in Python using the texutal lib ( `Python` )
   
-<!--<h2 align="center">🛑 Projects - Paused Work</h2>
-
-- ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
-- `Python++` -> Yes, my own programing laguage (Interpreter)
-
-<h2 align="center">👾 Projects - future</h2>
-
-- `Gambling Simulator` -> Gambling (The dice one) in Python with textual library
-- `API` -> In the future i will be selling courses and more so a API maybe in TypeScript or Kotlin would be good
-- `FGPT4` -> Free GPT4 using public API keys in python -->
-
 <h2 align="center">💻 Editors</h2>
 
 ![PyCharm Professional](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm&logoColor=21D789)
