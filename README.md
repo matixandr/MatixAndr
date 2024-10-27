@@ -2,7 +2,7 @@
 
 Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started programing in 2016 and from that time i made multiple projects.
 
- <h2 align="center">📚 Projects - now</h2>
+ <h2 align="center">📚 Projects</h2>
 
 - **MRCT** -> This is a React Components Toolkit for your projects ( `TypeScript` )
 - **WLCPS** -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook ( `C` + `Powershell` )
