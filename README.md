@@ -9,10 +9,10 @@ I make software and websites for request! Want one? Dm me on discord: `matt.void
 -->
  <h2 align="center">📚 Projects - now</h2>
 
-- `MRCT` -> This is a React Components Toolkit for your projects ( TypeScript )
-- `WLCPS` -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook (C + Powershell)
-- `PyGit` -> PyGit is a Github client that is like Github Desktop but in Python using the texutal lib
-
+- **MRCT** -> This is a React Components Toolkit for your projects ( <span style="color:blue">TypeScript</span> )
+- **WLCPS** -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook ( <span style="color:gray">C</span> + <span style="color:blue">Powershell</span> )
+- **PyGit** -> PyGit is a Github client that is like Github Desktop but in Python using the texutal lib ( <span style="color:yellow">Python</span> )
+  
 <!--<h2 align="center">🛑 Projects - Paused Work</h2>
 
 - ✅ $`\color{Green}{v1.0}`$ `VM Nuker (Experimental)` -> A Rust program that connects to SSH and runs command `sudo rm -rf /`
