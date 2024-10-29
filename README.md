@@ -34,7 +34,7 @@ Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09&theme=dark&layout=compact&hide_title=true&langs_count=20" alt="MatixAndr09's wakatime stats"><br/>
  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=tokyonight)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=tokyonight)-->
   
 </div>
 
