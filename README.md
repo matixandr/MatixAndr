@@ -24,7 +24,7 @@ Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cs,cmake,react,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cs,cmake,react,vue,next,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)
 
 
 <h2 align="center">📊 Statistics</h2>
