@@ -2,12 +2,12 @@
 
 Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started programing in 2016 and from that time i made multiple projects.
 
- <h2 align="center">📚 Projects</h2>
+<!-- <h2 align="center">📚 Projects</h2>
 
 - **MRCT** -> This is a React Components Toolkit for your projects ( `TypeScript` )
 - **WLCPS** -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook ( `C` + `Powershell` )
 - **PyGit** -> PyGit is a Github client that is like Github Desktop but in Python using the texutal lib ( `Python` )
-  
+  -->
 <h2 align="center">💻 Editors</h2>
 
 ![PyCharm Professional](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm&logoColor=21D789)
