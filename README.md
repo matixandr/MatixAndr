@@ -13,7 +13,6 @@ I'm constantly exploring new technologies and challenging myself with exciting p
 
 * **Software development** 
 * **Web development**
-* **AI**
 
 I love bringing ideas to life through code and thrive on the creative problem-solving that programming demands. I'm always eager to learn and collaborate with other developers.
 
