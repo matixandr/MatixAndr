@@ -29,16 +29,20 @@ Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started
 
 <h2 align="center">📊 Statistics</h2>
 
-<table style="border: none; width: 100%;">
- <tr>
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09&theme=dark&layout=compact&hide_title=true&langs_count=20" alt="MatixAndr09's wakatime stats"></td>
-    <td align="center" style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false" alt="Streak Stats"></td>
- </tr>
- <tr>
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats"></td>
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages"></td>
- </tr>
-</table>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09&theme=dark&layout=compact&hide_title=true&langs_count=20" alt="MatixAndr09's wakatime stats">
+  </div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false" alt="Streak Stats">
+  </div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats">
+  </div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages">
+  </div>
+</div>
 
 
 
