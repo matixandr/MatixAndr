@@ -1,7 +1,7 @@
 <!--<img src="Hi! Im a Software Engineer (2).gif">-->
 
 
-[Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=600&size=35&pause=1000&color=C5C5C5&width=435&lines=HI!+IM+A+SOFTWARE+ENGINEER;HI!+IM+A+FULL+STACK+WEB+DEV)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=600&size=35&pause=1000&color=C5C5C5&width=435&lines=HI!+IM+A+SOFTWARE+ENGINEER;HI!+IM+A+FULL+STACK+WEB+DEV)]()
 
 
 
