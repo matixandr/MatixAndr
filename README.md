@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=600&size=38&pause=1000&color=C5C5C5&width=600&lines=HI!+IM+A+SOFTWARE+ENGINEER;HI!+IM+A+FULL+STACK+WEB+DEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=600&size=38&pause=1000&color=C5C5C5&width=600&height=100&lines=HI!+IM+A+SOFTWARE+ENGINEER;HI!+IM+A+FULL+STACK+WEB+DEV)](https://git.io/typing-svg)
   
 </div>
 
