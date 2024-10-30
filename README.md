@@ -30,22 +30,19 @@ Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started
 <h2 align="center">📊 Statistics</h2>
 
 <div align="center">
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09&theme=dark&layout=compact&hide_title=true&langs_count=20" alt="MatixAndr09's wakatime stats">
   </div>
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false" alt="Streak Stats">
   </div>
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats">
   </div>
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages">
   </div>
 </div>
-
-
-
 
 <h2 align="center">⛑️ Support Me</h2>
 <div align="center">
