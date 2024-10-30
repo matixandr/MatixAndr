@@ -1,6 +1,14 @@
 <img src="Hi! Im a Software Engineer (2).gif">
 
-Hi there! I'm Mathew, a 16-year-old programmer from Poland with a passion for building things. 💻 I embarked on my coding journey at the age of 7 and haven't looked back since. 🚀 I'm constantly exploring new technologies and challenging myself with exciting projects, particularly those involving Software development, web development and AI. I love bringing ideas to life through code and thrive on the creative problem-solving that programming demands. I'm always eager to learn and collaborate with other developers.
+Hi there! I'm Mathew, a 16-year-old programmer from Poland with a passion for building things. :computer: I embarked on my coding journey at the age of 7 and haven't looked back since. :rocket: 
+
+I'm constantly exploring new technologies and challenging myself with exciting projects, particularly those involving:
+
+* **Software development** 
+* **Web development**
+* **AI**
+
+I love bringing ideas to life through code and thrive on the creative problem-solving that programming demands. I'm always eager to learn and collaborate with other developers.
 
 <!-- <h2 align="center">📚 Projects</h2>
 
