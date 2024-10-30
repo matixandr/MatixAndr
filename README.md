@@ -1,4 +1,6 @@
-<img src="Hi! Im a Software Engineer (2).gif">
+<!--<img src="Hi! Im a Software Engineer (2).gif">-->
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=600&size=29&pause=1000&color=575757&width=435&lines=HI!+IM+A+SOFTWARE+ENGINEER;HI!+IM+A+FULL+STACK+WEB+DEV)](https://git.io/typing-svg)
 
 Hi there! I'm Mathew, a 16-year-old programmer from Poland with a passion for building things. :computer: I embarked on my coding journey at the age of 7 and haven't looked back since. :rocket: 
