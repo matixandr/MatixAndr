@@ -31,8 +31,10 @@ Hello im a Software Engineer that is very pasionate in Rust and C/C++. I started
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false" alt="Streak Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages">
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages">
+  </div>
 </div>
 
 <h2 align="center">📊 Statistics - Code Time</h2>
