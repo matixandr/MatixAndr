@@ -38,7 +38,7 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cs,cmake,react,vue,next,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cmake,react,vue,next,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)
 
 
 <h2 align="center">📊 Statistics - Github</h2>
