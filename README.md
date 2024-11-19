@@ -7,7 +7,7 @@
 </div>
 
 
-Hi there! I'm Mathew, a 16-year-old programmer from Poland with a passion for building things. :computer: I embarked on my coding journey at the age of 7 and haven't looked back since. :rocket: 
+Hi there! I'm Mathew, a 14-year-old programmer from Poland with a passion for building things. :computer: I embarked on my coding journey at the age of 7 and haven't looked back since. :rocket: 
 
 I'm constantly exploring new technologies and challenging myself with exciting projects, particularly those involving:
 
@@ -37,6 +37,8 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
+
+<!-- cap -->
 
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cmake,react,vue,next,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)
 
