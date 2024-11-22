@@ -45,10 +45,10 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false" alt="Streak Stats">
-  <div align="center">
+  <!--<div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages">
-  </div>
+  </div>-->
 </div>
 
 <h2 align="center">📊 Statistics - Code Time</h2>
