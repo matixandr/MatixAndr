@@ -41,15 +41,15 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cmake,react,vue,next,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)
 
 
-<h2 align="center">📊 Statistics - Github</h2>
+<!--<h2 align="center">📊 Statistics - Github</h2>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatixAndr09&theme=dark&hide_border=false" alt="Streak Stats">
   <!--<div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages">
-  </div>-->
-</div>
+  </div>
+</div>  -->
 
 <h2 align="center">📊 Statistics - Code Time</h2>
 
