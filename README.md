@@ -22,7 +22,7 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 - **WLCPS** -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook ( `C` + `Powershell` )
 - **PyGit** -> PyGit is a Github client that is like Github Desktop but in Python using the texutal lib ( `Python` )
   -->
-<h2 align="center">💻 Editors</h2>
+<!-- <h2 align="center">💻 Editors</h2>
 
 ![PyCharm Professional](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm&logoColor=21D789)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=1C78C0)
@@ -34,7 +34,7 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
 [![Visual Studio Code Insiders](https://img.shields.io/badge/Visual%20Studio%20Code%20Insiders-000000?style=for-the-badge&logo=vscode-insiders&logoColor=white)](https://code.visualstudio.com/insiders/)
-
+  -->
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
