@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=600&size=38&pause=1000&color=C5C5C5&width=600&height=100&lines=HI!+IM+A+SOFTWARE+ENGINEER;HI!+IM+A+FULL+STACK+WEB+DEV)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=600&height=100&lines=Software+Developer;Cybersecurity+Expert;SysAdmin;Network+Engineer;DevOps;QA+Engineer)](https://git.io/typing-svg)
+
 </div>
 
-
+<!-- 
 Hi there! I'm Mathew, a 16-year-old programmer from Poland with a passion for building things. :computer: I embarked on my coding journey at the age of 7 and haven't looked back since. :rocket: 
 
 I'm constantly exploring new technologies and challenging myself with exciting projects, particularly those involving:
@@ -16,7 +16,7 @@ I'm constantly exploring new technologies and challenging myself with exciting p
 
 I love bringing ideas to life through code and thrive on the creative problem-solving that programming demands. I'm always eager to learn and collaborate with other developers.
 
-<!-- <h2 align="center">📚 Projects</h2>
+<h2 align="center">📚 Projects</h2>
 
 - **MRCT** -> This is a React Components Toolkit for your projects ( `TypeScript` )
 - **WLCPS** -> This is a tool that steals the login password to a windows computer and sends it to a dc webhook ( `C` + `Powershell` )
@@ -34,12 +34,16 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
 [![Visual Studio Code Insiders](https://img.shields.io/badge/Visual%20Studio%20Code%20Insiders-000000?style=for-the-badge&logo=vscode-insiders&logoColor=white)](https://code.visualstudio.com/insiders/)
-  -->
+
 
 <h2 align="center">🧑🏻‍💻 Techstack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cmake,react,vue,next,svelte,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cmake,react,vue,next,svelte,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)  -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,python,rust,redis" />
+  </a>
+</p>
 
 <!--<h2 align="center">📊 Statistics - Github</h2>
 
@@ -49,7 +53,7 @@ I love bringing ideas to life through code and thrive on the creative problem-so
       <img src="https://github-readme-stats.vercel.app/api?username=MatixAndr09&show_icons=true&theme=dark" alt="GitHub Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatixAndr09&layout=compact&theme=dark" alt="Top Languages">
   </div>
-</div>  -->
+</div>
 
 <h2 align="center">📊 Statistics - Code Time</h2>
 
@@ -61,4 +65,4 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 <div align="center">
   
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/matixandr) 
-</div>
+</div>  -->
