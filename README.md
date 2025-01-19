@@ -41,7 +41,7 @@ I love bringing ideas to life through code and thrive on the creative problem-so
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,ts,js,kotlin,python,mysql,flask,django,git,html,css,scss,powershell,php,cmake,react,vue,next,svelte,java,bash,mongodb,nodejs,sqlite,postgres,tauri,unity)](https://skillicons.dev)  -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,redis,svelte" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,redis" />
   </a>
 </p>
 
