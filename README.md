@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=600&height=100&lines=Software+Developer;Cybersecurity+Expert;SysAdmin;Network+Engineer;DevOps;QA+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=600&height=100&lines=Software+Developer;Cybersecurity+Expert;SysAdmin;Network+Engineer;DevOps)](https://git.io/typing-svg)
 
 </div>
 
