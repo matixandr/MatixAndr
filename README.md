@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,postgress" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,postgresssql" />
   </a>
 </p>
