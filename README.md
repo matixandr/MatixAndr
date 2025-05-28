@@ -4,6 +4,21 @@
 
 </div>
 
+<details>
+<summary>Click to expand</summary>
+
+This content will be hidden by default and can be expanded by clicking the summary.
+
+You can include:
+- Lists
+- **Bold text**
+- *Italic text*
+- Code blocks
+- Links
+- Any other Markdown content
+
+</details>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,postgres,powershell" />
