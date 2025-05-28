@@ -9,6 +9,7 @@
 <div align="center">
   <details>
     <summary><b>🚀 Projects</b></summary>
+    - COMING SOON...
   </details>
 </div>
 
