@@ -4,17 +4,14 @@
 
 </div>
 
-
-
-<p align="center">
+<div align="center">
   <details>
     <summary>🚀 Projects</summary>
   </details>
+</div>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,postgres,powershell" />
   </a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09&theme=dark&layout=compact&hide_title=true&langs_count=10" alt="MatixAndr's wakatime stats">
 </p>
