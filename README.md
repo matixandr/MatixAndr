@@ -6,7 +6,7 @@
 
 <div align="center">
   <details>
-    <summary>🚀 **Projects** </summary>
+    <summary><b>🚀 Projects</b></summary>
   </details>
 </div>
 
