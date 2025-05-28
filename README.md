@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="user-select: none; -webkit-user-select: none; -moz-user-select: none;">
   <details>
     <summary><b>🚀 Projects</b></summary>
   </details>
