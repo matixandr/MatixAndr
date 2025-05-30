@@ -6,12 +6,12 @@
 
 </div>
 
-<div align="center">
+<!--<div align="center">
   <details>
     <summary><b>🚀 Projects</b></summary>
     - COMING SOON...
   </details>
-</div>
+</div>-->
 
 <p align="center">
   <a>
