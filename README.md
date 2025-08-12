@@ -15,7 +15,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=cpp,python,sqlite,debian,windows" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,mysql,debian,windows" />
   </a>
 </p>
 <p align="center">
