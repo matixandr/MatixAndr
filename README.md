@@ -6,13 +6,6 @@
 
 </div>
 
-<!--<div align="center">
-  <details>
-    <summary><b>🚀 Projects</b></summary>
-    - COMING SOON...
-  </details>
-</div>-->
-
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=cpp,python,mysql,debian,windows" />
