@@ -12,6 +12,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://wakatime.com/badge/user/018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0.svg" href="wakatime programing time thing">
+  <a src="https://wakatime.com/@matixandr09"><img src="https://wakatime.com/badge/user/018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0.svg" href="wakatime programing time thing"></a>
 </p>
 </span>
