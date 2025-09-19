@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=600&height=100&lines=Offensive+Security;Software+Developer;Red+Teaming)](https://matixandr.me)
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=600&height=100&lines=Offensive+Security;Software+Engineer;Red+Teaming)
 
 </div>
 
