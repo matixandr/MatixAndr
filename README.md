@@ -15,6 +15,7 @@
   <a href="https://wakatime.com/@matixandr09"><img src="https://wakatime.com/badge/user/018bd7d5-20a7-48f2-b2f1-7e6c6eb2c1f0.svg" href="wakatime programing time thing"></a>
 </p>
 <p align="center">
-  🌙 Ambition never sleeps - why should you?
+  <p>Private Beta Launch in Q2 2026</p>
+  ---> <a href="https://vulnpoint.com">https://vulnpoint.com</a> <---
 </p>
 </span>
