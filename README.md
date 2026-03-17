@@ -8,7 +8,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=cpp,python,mysql,postgres,windows" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,linux,bash,git,windows,mysql" />
   </a>
 </p>
 <p align="center">
